@@ -386,6 +386,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
+  <p>
+  Finally, after testing you've installed everything correctly, please go to
+  <a href="http://swcarpentry.github.io/python-novice-inflammation/setup/">this page</a>
+  which has instructions on obtaining all the data and example programs to be
+  used in these exercises.
+  </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
