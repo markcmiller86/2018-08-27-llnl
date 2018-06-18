@@ -296,6 +296,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+Please go to <a href="http://swcarpentry.github.io/python-novice-inflammation/setup/">this page</a> which has instructions on obtaining all the data and example programs to be used in these exercises.
+</p>
+
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -385,12 +389,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
-  </p>
-  <p>
-  Finally, after testing you've installed everything correctly, please go to
-  <a href="http://swcarpentry.github.io/python-novice-inflammation/setup/">this page</a>
-  which has instructions on obtaining all the data and example programs to be
-  used in these exercises.
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
